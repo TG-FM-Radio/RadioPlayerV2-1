@@ -30,7 +30,7 @@ Radio in [AsmSafone](https://t.me/AsmSafone) Channel & Music in [SafoTheBot](htt
 
 <p><a href="https://heroku.com/deploy?template=https://github.com/AsmSafone/RadioPlayerV2"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
   
-[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/TG-FM-Radio/RadioPlayerV2-1&envs=API_ID,API_HASH,BOT_TOKEN ,SESSION_STRING,CHAT,LOG_GROUP,ADMINS,STREAM_URL)
+[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/TG-FM-Radio/RadioPlayerV2-1&envs=API_ID,API_HASH,BOT_TOKEN,SESSION_STRING,CHAT,LOG_GROUP,ADMINS,STREAM_URL)
 
 NOTE: Make Sure You Have Started A Voice Chat In Your Channel/Group Before Deploying!
 
